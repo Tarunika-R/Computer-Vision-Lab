@@ -1,3 +1,4 @@
 compvis/
-./Ex7/yolov3
-./Ex7/yolov3.weights
+/Ex7/yolov3.cfg
+/Ex7/yolov3.weights
+/Ex7/coco.names
